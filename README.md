@@ -1,4 +1,4 @@
-# PICO 2 Bitbaning TX UART and timing module
+# PICO 2 Bitbanging TX UART and timing module
 
 Simple bitbanging tx only uart for debug printout. Redirects printf to the uart bitbang gpio selected.
 
