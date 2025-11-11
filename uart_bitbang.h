@@ -20,6 +20,6 @@
 #ifndef INC_UART_BITBANG_H_
 #define INC_UART_BITBANG_H_
 
-void init_uart();
+void init_uart(uint32_t baud_rate, uint tx_pin_);
 
 #endif /* INC_UART_BITBANG_H_*/
